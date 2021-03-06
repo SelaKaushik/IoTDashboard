@@ -51,7 +51,7 @@
                     <div class="card">
                         <div class="card-content">
                             <div class="card-title" style="text-align: center;">
-                                <h2>IoT Dashboard</h2>
+                                <h2>IoT Dashboard - Home</h2>
 
                             </div>
                         </div>
